@@ -1,6 +1,5 @@
 Theme Structure
 ---------------
-
 In this directory there are three folders:
 
   - at_core
