@@ -7,8 +7,6 @@ In this directory there are three folders:
   - at_admin
   - at_subtheme
 
-
-
 AT Core
 -------
 
